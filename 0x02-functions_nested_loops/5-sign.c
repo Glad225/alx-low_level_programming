@@ -1,3 +1,4 @@
+#include "main.h"
 /**
   *print_sign - Check main.h
   * @n: An input character
