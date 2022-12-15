@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 /**
   *_abs - Check main.h
   *@r: An input character
