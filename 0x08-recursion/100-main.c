@@ -8,6 +8,7 @@
 */
 int main(void)
 {
+
 int r;
 
 r = is_palindrome("level");
