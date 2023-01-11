@@ -7,7 +7,7 @@
  * * @str: array str
  * *
  * * Return: Always 0 (Success)
- * */
+ */
 int check_num(char *str)
 {
 	/*Declaring variables*/
@@ -33,7 +33,7 @@ int check_num(char *str)
  * * @argv: Arguments
  * *
  * * Return: Always 0 (Success)
- * */
+ */
 
 int main(int argc, char *argv[])
 
